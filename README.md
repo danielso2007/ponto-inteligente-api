@@ -10,3 +10,7 @@ API para o istema de ponto inteligente com java e springboot
 # Criando banco de dados no Mysql
 
 `CREATE SCHEMA `ponto_inteligente` DEFAULT CHARACTER SET utf8 ;`
+
+# Heroku
+
+https://dashboard.heroku.com/apps/servicepinngopc
